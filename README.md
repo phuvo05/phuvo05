@@ -30,8 +30,7 @@ A few of the tools and technologies I work with:
 
 | Project | Description | Tech Used | Status |
 |---------|------------|-----------|--------|
-| **Dynamic Traffic Management Using Mobile Barriers** | AI-driven traffic congestion prediction and dynamic median strip movement to optimize road usage. | Computer Vision, Deep Learning, LSTM, Python, OpenCV, TensorFlow | Research & Development |
-| **Hand Gesture Flight Control for Microsoft Flight Simulator** | Use a laptop webcam and deep learning to track hand movements for flight control. | Python, OpenCV, TensorFlow, MediaPipe | Prototype Stage |
+
 
 
 
