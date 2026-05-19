@@ -51,25 +51,24 @@
 
 ## 📊 GitHub Stats  
 
+<div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phuvo05&theme=github_dark" height="150" alt="GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=phuvo05&theme=github_dark&utcOffset=7" height="150" alt="Productive Time"/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=phuvo05&theme=dark&hide_border=false" alt="GitHub Streak" height="160"/>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phuvo05&theme=github_dark" alt="GitHub Profile Summary"/>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=phuvo05&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="700" alt="GitHub Trophies"/>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phuvo05&theme=github_dark" alt="Repos per Language" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phuvo05&theme=github_dark" alt="Most Commit Language" height="160"/>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=phuvo05&style=flat-square&color=blue" alt="Profile views"/>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=phuvo05&theme=github-compact&hide_border=true&height=230" width="700" alt="GitHub Activity Graph"/>
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=phuvo05&style=flat-square&color=blue" alt="Profile Views"/>
+
+</div>
 
 ## 🔹 Connect with Me  
 
