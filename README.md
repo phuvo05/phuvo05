@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm **Thien-Phu Vo** 
 
 🚀 **AI & Data Science Enthusiast**  
-🎓 **Third-year Student | Passionate about Artificial Intelligence world!**  
+🎓 **Fourth-year Student | Passionate about Artificial Intelligence world!**  
 
 
 ## 🔹 About Me  
