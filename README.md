@@ -30,36 +30,35 @@ A few of the tools and technologies I work with:
 
 | Project | Description | Tech Used | Status |
 |---------|------------|-----------|--------|
-
+| **[Talk to Your University Dashboard (A20-App-112)](https://github.com/a20-ai-thuc-chien/A20-App-112)** | 🏆 AI-powered dashboard allowing university leaders to query data via Vietnamese natural language (Voice/Text) to generate SQL, interactive charts, and reports using a Multi-Agent LangGraph pipeline. | FastAPI, LangGraph, Claude/Gemini, PostgreSQL, pgvector, Redis | 🌟 Live |
 
 
 
 ## 📊 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phuvo05&theme=dark&hide_border=false) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phuvo05&theme=dark&hide_border=false&include_all_commits=true&count_private=true)    
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phuvo05&theme=dark&hide_border=false&layout=compact)  
 
-### 💪 Top Contributed Repo  
-![Top Contributions](https://github-contributor-stats.vercel.app/api?username=phuvo05&limit=5&theme=dark&combine_all_yearly_contributions=true)  
 
-[![](https://visitcount.itsvg.in/api?id=phuvo05&icon=0&color=13)](https://visitcount.itsvg.in)  
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=phuvo05&theme=dark&hide_border=false" alt="GitHub Streak" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phuvo05&theme=github_dark" alt="GitHub Profile Summary"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phuvo05&theme=github_dark" alt="Repos per Language" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phuvo05&theme=github_dark" alt="Most Commit Language" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=phuvo05&style=flat-square&color=blue" alt="Profile views"/>
+</p>
 
 
 ## 🔹 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phu-vo-3a36621ab/)  
-<!-- [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25495769)  
-<!-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@hei_isme)   -->
-<!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hei.isme)   --> -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phu-vo-3a36621ab/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phuvo05)
 
-
-
-
-## 🔹 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phu-vo-3a36621ab/)  
-<!-- [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25495769)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@hei_isme)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hei.isme)   -->
-
-📩 **Feel free to connect, collaborate, or just say hi! Always open to new opportunities and discussions.**  
+📩 **Feel free to connect, collaborate, or just say hi! Always open to new opportunities, research discussions, and AI/Data challenges.**
