@@ -45,7 +45,7 @@
 
 | Project | Description | Tech Used | Status |
 |---------|------------|-----------|--------|
-| **[Talk to Your University Dashboard (A20-App-112)](https://github.com/a20-ai-thuc-chien/A20-App-112)** | 🏆 AI-powered dashboard allowing university leaders to query data via Vietnamese natural language (Voice/Text) to generate SQL, interactive charts, and reports using a Multi-Agent LangGraph pipeline. | FastAPI, LangGraph, Claude/Gemini, PostgreSQL, pgvector, Redis | 🌟 Live |
+| **[Talk to Your University Dashboard (A20-App-112)](https://github.com/phuvo05/A20-App-112)** | 🏆 AI-powered dashboard allowing university leaders to query data via Vietnamese natural language (Voice/Text) to generate SQL, interactive charts, and reports using a Multi-Agent LangGraph pipeline. | FastAPI, LangGraph, Claude/Gemini, PostgreSQL, pgvector, Redis | 🌟 Live |
 
 
 
